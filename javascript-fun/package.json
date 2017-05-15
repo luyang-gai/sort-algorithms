@@ -1,0 +1,16 @@
+{
+  "name": "javascript-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing-object-freeze.js",
+  "dependencies": {
+    "deep-freeze": "^0.0.1",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
